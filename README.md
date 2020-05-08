@@ -15,6 +15,7 @@ You need to provide your own. The ones I used are:
 Run main.py, be sure to install your roms (code to install roms is provided, rom is not).
 Run lunar.py to train on Lunar Lander Gym environment.
 There are various lines of codes that shows examples on how to create agent, train agent with checkpoints, load models, and play games.
+Models for the various checkpoints shown below are provided in the models directory.
 
 # Work In Progress
 Currently the implentation converges on Lunar Lander but does not on NES games even when left training for days.
